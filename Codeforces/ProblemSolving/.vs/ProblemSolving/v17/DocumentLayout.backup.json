@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codeforces\\ProblemSolving\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E18E542-CAAF-42E0-8C20-60B93028E4CE}|ProblemSolving\\ProblemSolving.csproj|d:\\codeforces\\problemsolving\\problemsolving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18E542-CAAF-42E0-8C20-60B93028E4CE}|ProblemSolving\\ProblemSolving.csproj|solutionrelative:problemsolving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E18E542-CAAF-42E0-8C20-60B93028E4CE}|ProblemSolving\\ProblemSolving.csproj|d:\\codeforces\\problemsolving\\problemsolving\\codeforces\\calculatingfunction_486_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18E542-CAAF-42E0-8C20-60B93028E4CE}|ProblemSolving\\ProblemSolving.csproj|solutionrelative:problemsolving\\codeforces\\calculatingfunction_486_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E18E542-CAAF-42E0-8C20-60B93028E4CE}|ProblemSolving\\ProblemSolving.csproj|d:\\codeforces\\problemsolving\\problemsolving\\codeforces\\watermelon_4a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18E542-CAAF-42E0-8C20-60B93028E4CE}|ProblemSolving\\ProblemSolving.csproj|solutionrelative:problemsolving\\codeforces\\watermelon_4a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E18E542-CAAF-42E0-8C20-60B93028E4CE}|ProblemSolving\\ProblemSolving.csproj|d:\\codeforces\\problemsolving\\problemsolving\\codeforces\\iloveusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18E542-CAAF-42E0-8C20-60B93028E4CE}|ProblemSolving\\ProblemSolving.csproj|solutionrelative:problemsolving\\codeforces\\iloveusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E18E542-CAAF-42E0-8C20-60B93028E4CE}|ProblemSolving\\ProblemSolving.csproj|d:\\codeforces\\problemsolving\\problemsolving\\geeksforgeeks\\arrayproblems\\reverseex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18E542-CAAF-42E0-8C20-60B93028E4CE}|ProblemSolving\\ProblemSolving.csproj|solutionrelative:problemsolving\\geeksforgeeks\\arrayproblems\\reverseex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E18E542-CAAF-42E0-8C20-60B93028E4CE}|ProblemSolving\\ProblemSolving.csproj|d:\\codeforces\\problemsolving\\problemsolving\\geeksforgeeks\\arrayproblems\\minmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E18E542-CAAF-42E0-8C20-60B93028E4CE}|ProblemSolving\\ProblemSolving.csproj|solutionrelative:problemsolving\\geeksforgeeks\\arrayproblems\\minmax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Codeforces\\ProblemSolving\\ProblemSolving\\Program.cs",
+              "RelativeDocumentMoniker": "ProblemSolving\\Program.cs",
+              "ToolTip": "D:\\Codeforces\\ProblemSolving\\ProblemSolving\\Program.cs",
+              "RelativeToolTip": "ProblemSolving\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:48:09.083Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Watermelon_4A.cs",
+              "DocumentMoniker": "D:\\Codeforces\\ProblemSolving\\ProblemSolving\\CodeForces\\Watermelon_4A.cs",
+              "RelativeDocumentMoniker": "ProblemSolving\\CodeForces\\Watermelon_4A.cs",
+              "ToolTip": "D:\\Codeforces\\ProblemSolving\\ProblemSolving\\CodeForces\\Watermelon_4A.cs",
+              "RelativeToolTip": "ProblemSolving\\CodeForces\\Watermelon_4A.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:50:43.698Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatingFunction_486_A.cs",
+              "DocumentMoniker": "D:\\Codeforces\\ProblemSolving\\ProblemSolving\\CodeForces\\CalculatingFunction_486_A.cs",
+              "RelativeDocumentMoniker": "ProblemSolving\\CodeForces\\CalculatingFunction_486_A.cs",
+              "ToolTip": "D:\\Codeforces\\ProblemSolving\\ProblemSolving\\CodeForces\\CalculatingFunction_486_A.cs",
+              "RelativeToolTip": "ProblemSolving\\CodeForces\\CalculatingFunction_486_A.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T00:39:56.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReverseEx.cs",
+              "DocumentMoniker": "D:\\Codeforces\\ProblemSolving\\ProblemSolving\\GeeksForGeeks\\ArrayProblems\\ReverseEx.cs",
+              "RelativeDocumentMoniker": "ProblemSolving\\GeeksForGeeks\\ArrayProblems\\ReverseEx.cs",
+              "ToolTip": "D:\\Codeforces\\ProblemSolving\\ProblemSolving\\GeeksForGeeks\\ArrayProblems\\ReverseEx.cs",
+              "RelativeToolTip": "ProblemSolving\\GeeksForGeeks\\ArrayProblems\\ReverseEx.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:26:18.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILoveUsername.cs",
+              "DocumentMoniker": "D:\\Codeforces\\ProblemSolving\\ProblemSolving\\CodeForces\\ILoveUsername.cs",
+              "RelativeDocumentMoniker": "ProblemSolving\\CodeForces\\ILoveUsername.cs",
+              "ToolTip": "D:\\Codeforces\\ProblemSolving\\ProblemSolving\\CodeForces\\ILoveUsername.cs",
+              "RelativeToolTip": "ProblemSolving\\CodeForces\\ILoveUsername.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T01:24:41.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MinMax.cs",
+              "DocumentMoniker": "D:\\Codeforces\\ProblemSolving\\ProblemSolving\\GeeksForGeeks\\ArrayProblems\\MinMax.cs",
+              "RelativeDocumentMoniker": "ProblemSolving\\GeeksForGeeks\\ArrayProblems\\MinMax.cs",
+              "ToolTip": "D:\\Codeforces\\ProblemSolving\\ProblemSolving\\GeeksForGeeks\\ArrayProblems\\MinMax.cs",
+              "RelativeToolTip": "ProblemSolving\\GeeksForGeeks\\ArrayProblems\\MinMax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T01:55:45.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
